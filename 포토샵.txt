@@ -16,5 +16,11 @@
 전경색 채워넣기 ALT + DELETE
 배경색 채워넣기 CTRL + DELETE
 
+파일저장 file > save
+
+사이즈 커질수록 용량도 커진다
 
 이미지 파일로 뽑아내기 > file ->expot->save for web (alt + shift + ctrl + s)
+레이어 단위로 뽑아내기 > 레이어에 대고 우클릭 > 1, Quick export as png 혹은 2, Export as 선택 /뽑아질 때 사이즈는 레이어 기준 사이즈이다.
+
+gif >256 / jpg>70 / png>24 사용
